@@ -1,0 +1,2 @@
+# REMOTE-OPERATED-HOME-APPLIANCE-USING-ANDRIOD-APP
+The project is aimed to automate the entire domestic appliance. The Office, home appliance like TV , lamps , bulbs, fans , refrigerator , AC , washing machine etc can be turned on/off by just using and android smart phone app which get connect to your home appliance through Bluetooth connection. Using Bluetooth technology we have limited distance access to appliances.
